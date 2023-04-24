@@ -1,0 +1,14 @@
+[
+    {
+        "Username": "Asta",
+        "Password": "Kiko2006",
+        "Rank": "Admin",
+        "uuid": "0BBFA899-4CC0-F81A-AA80-2CF05DD847BE"
+    },
+    {
+        "Username": "123",
+        "Password": "123",
+        "Rank": "User",
+        "uuid": "0BBFA899-4CC0-F81A-AA80-2CF05DD847BE"
+    }
+]
