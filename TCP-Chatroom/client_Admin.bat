@@ -1,1 +1,1 @@
-py client.py 192.168.55.150 10000 Asta Kiko2006
+py client.py 192.168.55.150 10000 
